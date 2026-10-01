@@ -115,3 +115,14 @@ function mostraResultado(){
 }
 
 mostraPergunta();
+function aleatorio(lista) {
+        const posicao = Math.random()* lista.length;
+}function aleatorio(lista) {
+        const posicao = Math.random()* lista.length;
+}function aleatorio (lista){
+        const posicao = Math.floor(Math.random()* lista.length);
+        return lista[posicao];
+}
+function aleatorio(lista) {
+        const posicao = Math.random()* lista.length;
+}
